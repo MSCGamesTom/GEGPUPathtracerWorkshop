@@ -8,6 +8,11 @@ This repository contains a simple pedagogic interactive path tracer built on top
 - Read from a shader file
 - Interactively control the camera and scene parameters
 
+This repository is for the lab session on GPU Pathtracing for the Games Engineering course at Warwick. In the lab session, students on the course are expected to:
+
+- Add a HDR UAV to render to and tonemap the output
+- Replace the path tracing integrator with an ambient occlusion integrator
+
 The scenes are in the [GEMScene](https://github.com/MSCGamesTom/GEM) format used by the Games Engineering course at Warwick.
 
 ## Table of Contents
